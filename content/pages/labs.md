@@ -188,7 +188,7 @@ Ultrafiltration Membrane Formation by Phase Inversion and Permeability Studies
 Photopolymerization: Photolithography and Soft Lithography
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/10467exp_15))  
+([PDF 1]({{< baseurl >}}/resources/10467exp_15))  
   
 ([PDF 2]({{< baseurl >}}/resources/experiment_15b1))
 {{< tdclose >}}
