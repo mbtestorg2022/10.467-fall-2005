@@ -5,6 +5,7 @@ description: This resource gives details about the Aim, Appratus, Material and B
   by Phase Inversion and Permeability Studies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-467-polymer-science-laboratory-fall-2005/456ce3e0a1e5797e699dfb3cb914c686_experiment_14.pdf
 file_type: application/pdf
+parent_uid: 248f7e4f-c32c-4690-9581-137f83df4884
 resourcetype: Document
 title: experiment_14.pdf
 uid: 456ce3e0-a1e5-797e-699d-fb3cb914c686

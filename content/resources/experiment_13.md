@@ -5,6 +5,7 @@ description: This resource gives details about the Aim, Appratus, Material and B
   Benzene and Methyl Methacrylate.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-467-polymer-science-laboratory-fall-2005/d37fdb110974c49b564f6b2abb115424_experiment_13.pdf
 file_type: application/pdf
+parent_uid: 248f7e4f-c32c-4690-9581-137f83df4884
 resourcetype: Document
 title: experiment_13.pdf
 uid: d37fdb11-0974-c49b-564f-6b2abb115424
